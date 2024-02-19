@@ -33,16 +33,28 @@
     - b. **Par Instanciation Dynamique**
         - Réalisation de l'injection des dépendances par instanciation dynamique.
      
-          ![instanciation statique.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_6.jpg?raw=true)
+          ![instanciation Dynamique.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_6.jpg?raw=true)
 
-          ![instanciation statique.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_7.jpg?raw=true)
+          ![instanciation Dynamique.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_7.jpg?raw=true)
 
     - c. **En Utilisant le Framework Spring**
         - i. **Version XML**
             - Configuration des beans et injection des dépendances via le fichier XML.
+         
+               ![via le fichier XM.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_8.jpg?raw=true)
+
+               ![via le fichier XM.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_9.jpg?raw=true)
 
         - ii. **Version Annotations**
             - Utilisation des annotations de Spring pour la configuration et l'injection des dépendances.
+         
+              ![via le fichier XM.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_10.jpg?raw=true)
+
+              ![via le fichier XM.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_11.jpg?raw=true)
+
+              ![via le fichier XM.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_12.jpg?raw=true)
+
+              ![via le fichier XM.](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_13.jpg?raw=true)
 
 
 ## :bookmark_tabs: Conclusion
