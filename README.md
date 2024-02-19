@@ -4,6 +4,7 @@
 
 1. **IDao Interface**
     - Création de l'interface `IDao` avec la méthode `getDate`.
+    ![l'interface `IDao`](https://github.com/Amine-Fadssi/SD-TP1.1/blob/master/screenshots/Screenshot_1.jpg?raw=true)
 
 2. **Implémentation de IDao**
     - Développement d'une implémentation de l'interface `IDao`.
