@@ -58,8 +58,17 @@
 
 
 ## :bookmark_tabs: Conclusion
-- Résumez les principales leçons apprises lors de la réalisation de ce TP.
-- Mentionnez les défis rencontrés et les solutions apportées.
+Au cours de la réalisation de ce travail pratique, plusieurs leçons importantes ont été tirées. Parmi les points clés à retenir :
+
+- **Compréhension des Interfaces et Implémentations :** La création des interfaces `IDao` et `IMetier` a permis de mieux comprendre la séparation des préoccupations et l'importance des contrats dans la conception logicielle.
+
+- **Couplage Faible et Flexibilité :** L'utilisation du couplage faible dans l'implémentation de `IMetier` a démontré comment cette approche peut accroître la flexibilité et faciliter les modifications ultérieures.
+
+- **Injection des Dépendances avec Spring :** Les différentes méthodes d'injection des dépendances, qu'il s'agisse de l'instanciation statique, dynamique ou via Spring, ont été explorées. Chacune offre ses avantages et inconvénients, et le choix dépend des besoins spécifiques du projet.
+
+- **Rencontres de Défis et Solutions Apportées :** Tout au long du TP, des défis ont été rencontrés, notamment dans la mise en place de l'injection des dépendances. Ces obstacles ont été surmontés grâce à une compréhension approfondie des concepts et à des recherches approfondies.
+
+Cette expérience a renforcé nos compétences en programmation orientée objet et a jeté les bases d'une compréhension plus approfondie des principes de conception logicielle. Les défis rencontrés ont été des opportunités d'apprentissage, soulignant l'importance de la résolution de problèmes dans le processus de développement logiciel.
 
 ## :question: Support et Vidéo
 Ressources vidéo utiliser 
